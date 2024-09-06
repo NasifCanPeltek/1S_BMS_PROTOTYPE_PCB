@@ -1,0 +1,3 @@
+WARNING!!!!!!!!!
+Apply a maximum of 10V and 0.9A to the input. 
+For long-term use, I recommend 5V, 0.4A.
